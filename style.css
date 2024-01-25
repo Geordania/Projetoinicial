@@ -1,0 +1,38 @@
+body {
+    text-decoration: none;
+    margin: 0;
+    padding: 0;     
+}
+
+.inicio {
+position: absolute;
+top: 0vh;
+width: 40vw;
+}
+.imagem {
+    width: 100px;
+    height: 30px;
+}
+.inicio {
+    color: green;
+    top: 0%;
+    margin: 5%
+}
+.inicio2 {
+    text-align: right;
+     top: 120vh;
+     width: 100vw; 
+     
+     
+ }
+.inicio3 {
+    position: absolute;
+    top: 20vh;
+    width: 50vw;
+    text-align: center;    
+}
+.
+
+
+
+
