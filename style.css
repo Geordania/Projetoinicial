@@ -17,20 +17,29 @@ body {
 
 .inicio {
     color: green;
-    width: 100%;display: flex;
+    width: 100%;
+    display: flex;
 
 }
 
 .food {
-    text-align:left;
+    text-align: left;
     top: 120vh;
     width: 70%;
-  
+
 }
-.menu{
-    width: 30%;
+
+.menu {
+    width: 20%;
     display: flex;
     justify-content: space-around;
+}
+
+.icones {
+    width: 10%;
+    display: flex;
+    height: 20%;
+
 }
 
 .inicio3 {
@@ -39,7 +48,3 @@ body {
     width: 50vw;
     text-align: center;
 }
-
-
-
-
