@@ -1,37 +1,44 @@
 body {
     text-decoration: none;
     margin: 0;
-    padding: 0;     
+    padding: 0;
 }
 
 .inicio {
-position: absolute;
-top: 0vh;
-width: 40vw;
+    position: absolute;
+    top: 0vh;
+    width: 40vw;
 }
+
 .imagem {
     width: 100px;
     height: 30px;
 }
+
 .inicio {
     color: green;
-    top: 0%;
-    margin: 5%
+    width: 100%;display: flex;
+
 }
-.inicio2 {
-    text-align: right;
-     top: 120vh;
-     width: 100vw; 
-     
-     
- }
+
+.food {
+    text-align:left;
+    top: 120vh;
+    width: 70%;
+  
+}
+.menu{
+    width: 30%;
+    display: flex;
+    justify-content: space-around;
+}
+
 .inicio3 {
     position: absolute;
     top: 20vh;
     width: 50vw;
-    text-align: center;    
+    text-align: center;
 }
-.
 
 
 
